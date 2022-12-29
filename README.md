@@ -66,9 +66,11 @@
 <div align="center">
 
 <a href="https://github.com/avneesh002/">
-  <img src="https://github-readme-stats.vercel.app/api?username=avneesh002&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40%22%20width=%22450%22"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=avneesh002&show_icons=true&count_private=true&card_width=700"/>
   <br>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avneesh002&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="avneesh"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh002&layout=compact&card_width=450"  alt="avneesh"/>
+	<br>
+<img src="https://streak-stats.demolab.com/?user=avneesh002&card_width=900px" alt="avneesh"/>
 
 </a>
 </div>
