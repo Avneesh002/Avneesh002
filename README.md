@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%EF%B8%8F&fontSize=40&fontAlign=65&fontColor=ffffff&animation=twinkling" />
-
+<img src="https://camo.githubusercontent.com/50eaa922832bb306d425bb556ab7180255778bc478f346be5428fb01e58ad20e/68747470733a2f2f76697369746f722d62616467652e676c697463682e6d652f62616467653f706167655f69643d4173686f6b50726a61706174692e4173686f6b50726a6170617469" alt="" data-canonical-src="https://visitor-badge.glitch.me/badge?page_id=avneesh002" style="max-width: 100%;">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Heeeey,%20%20i%20am%20Avneesh+Grover...%E2%9C%8C%EF%B8%8F">
 </p>
@@ -41,8 +41,9 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
     ![REACT](https://img.shields.io/badge/REACT%20-%231572B6.svg?style=for-the-badge&logo=react&logoColor=white)
+![Nodejs](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
   ![REDUX](https://img.shields.io/badge/REDUX%20-%231572B6.svg?style=for-the-badge&logo=redux&logoColor=white)
-  
+  ![MongoDB](https://camo.githubusercontent.com/b38bbb1cba49a754ade66ca1ca45541ed07ab31a3b01166157f513b44fb35f70/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d2532333465613934622e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465)
 <br>
 
 - **Extras**:
@@ -68,7 +69,7 @@
 <a href="https://github.com/avneesh002/">
   <img src="https://github-readme-stats.vercel.app/api?username=avneesh002&show_icons=true&count_private=true&card_width=700"/>
   <br>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh002&layout=compact&card_width=450"  alt="avneesh"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avneesh002&lang_count=8&layout=compact&card_width=450"  alt="avneesh"/>
 	<br>
 <img src="https://streak-stats.demolab.com/?user=avneesh002&card_width=900px" alt="avneesh"/>
 
