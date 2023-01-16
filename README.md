@@ -20,7 +20,7 @@
 
 - I’m currently learning Nextjs, MongoDB, Data Structure & Algorithms
 - Reach me @  <a>Avneeshgrover8@gmail.com</a>
-- Take a look at my projects <a href="avneesh002.github.io">Projects</a>
+- Take a look at my <a href="https://Avneesh002.github.io">Projects</a>
 - My Resume <a href="https://drive.google.com/file/d/14pcxWHnyCzvE0d_JJWfoAT5v6hl9lglu/view?usp=share_link">Resume</a>
 - Fun Fact: The first computer 'bug' was an actual real-life bug
 
