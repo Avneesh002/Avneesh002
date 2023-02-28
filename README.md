@@ -12,17 +12,15 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://media4.giphy.com/media/ZVik7pBtu9dNS/200w.webp?cid=ecf05e47d5jzm4h6hao3ajrhazgn1968vgafru8iz8x3f8sy&rid=200w.webp&ct=g" width = 450px height= 250px></picture>
 
 <br>
    
    
-
-- I’m currently learning Nextjs, MongoDB, Data Structure & Algorithms
 - Reach me @  <a>Avneeshgrover8@gmail.com</a>
 - Take a look at my <a href="https://Avneesh002.github.io">Projects</a>
 - My Resume <a href="https://drive.google.com/file/d/14pcxWHnyCzvE0d_JJWfoAT5v6hl9lglu/view?usp=share_link">Resume</a>
-- Fun Fact: The first computer 'bug' was an actual real-life bug
+- <h4>Fun Fact</h4> The first computer 'bug' was an actual real-life bug 🪲
 
 <br><br>
 
@@ -49,7 +47,7 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+    ![NPM](https://img.shields.io/badge/N%20P%20M-0078d7.svg?style=for-the-badge&logo=N-P-M&logoColor=red)
 
 </p>
 
