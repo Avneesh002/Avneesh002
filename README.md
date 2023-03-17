@@ -13,7 +13,8 @@
 <br>
 </br>
 📩 Reach me @ Avneeshgrover8@gmail.com<br>
-📄 Give a look at my <a href="https://avneesh002.github.io" target="blank">Portfolio</a><br>
+
+📄 Give a look at my <a href="https://avneesh002.github.io/" target="blank">Portfolio</a><br>
 <h3>Fun Fact</h3>The first computer 'bug' was an actual real-life bug 🪲
 
 
