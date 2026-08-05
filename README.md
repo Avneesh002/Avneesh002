@@ -31,8 +31,6 @@
 
 📩 **Email:** [AvneeshGrover8@gmail.com](mailto:AvneeshGrover8@gmail.com)
 
-🌐 **Portfolio:** https://avneesh002.github.io/
-
 💼 **LinkedIn:** https://www.linkedin.com/in/avneesh002/
 
 ⚡ **Fun Fact:** The first computer "bug" was actually a real bug 🪲
