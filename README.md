@@ -99,22 +99,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-### 🏀 Sports Community Platform
-
-A production-ready basketball platform featuring player profiles, real-time chat, subscriptions, video feeds, rewards, and payment integration using React Native, React, Node.js, Stripe, and Twilio.
-
-### 💪 Fitness & Wellness Application
-
-Cross-platform Flutter application featuring workout programs, video streaming, progress tracking, Firebase integration, subscriptions, authentication, and Cloudflare-powered content delivery.
-
-### 🛍️ E-Commerce & Marketplace Solutions
-
-Developed scalable e-commerce platforms with secure authentication, admin dashboards, payment integration, and responsive user experiences.
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
