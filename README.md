@@ -16,8 +16,6 @@
 
 🚀 Full Stack Developer with **3+ years** of experience building scalable mobile and web applications.
 
-📱 My primary expertise is **Flutter**, backed by strong experience in **React Native**, **Next.js**, **React**, **Node.js**, and **NestJS**.
-
 💡 I enjoy transforming complex ideas into clean, scalable, production-ready products.
 
 ### Currently Working With
