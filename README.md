@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Avneesh Grover
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=00C4FF&size=26&center=true&vCenter=true&width=700&height=100&lines=Flutter+%7C+Full+Stack+Developer;Building+Scalable+Mobile+%26+Web+Applications;Turning+Ideas+Into+Production-Ready+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=00C4FF&size=26&center=true&vCenter=true&width=700&height=100&lines=Full+Stack+Developer;Building+Scalable+Mobile+%26+Web+Applications;Turning+Ideas+Into+Production-Ready+Products" />
 </p>
 
 <p align="center">
